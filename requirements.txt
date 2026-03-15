@@ -1,0 +1,2 @@
+sudo apt-get install pigpio python3-pigpio
+pip3 install mido
